@@ -19,10 +19,13 @@ header{
 	float:left;
 	padding:20px;
 	border-right: 2px solid;
-	border-color: #dddddd;
-	
-	
+	border-color: #dddddd;	
 }
+
+a{
+	text-decoration: none;
+}
+
 .logo{
 	width: 250px;
 	height: 90px;
